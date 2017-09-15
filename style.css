@@ -1,0 +1,149 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
+
+#afbeelding {
+  border-style: solid;
+   border: 5px 5px;
+   position: absolute;
+   left: 75px;
+   top: 150px;
+}
+
+#indonesie {
+  border-style: solid;
+  border: 5px 5px;
+  width: 30%;
+  position: absolute;
+  left: 780px;
+  top: 330px;
+}
+
+input[type=checkbox] {
+  width: 15px;
+  height: 15px;
+}
+
+#checkbox {
+  font-size: 20px;
+}
+
+#checkbox1 {
+  font-size: 20px;
+}
+
+.tekst1 {
+  font-size: 30px;
+}
+
+#tekst2 {
+  font-size: 13px;
+}
+
+.tekst3 {
+  font-size: 21px;
+}
+
+.tekst4 {
+  font-size: 21px;
+}
+
+.tekst5 {
+  font-size: 21px;
+}
+
+.hoofdtekst {
+  border-style: solid;
+  border: 5px 5px;
+  position: absolute;
+  left: 580px;
+  top: 150px;
+  padding: 4px;
+}
+
+.foto4 {
+  position: absolute;
+  left: 800px;
+  top: 430px;
+}
+
+.vt {
+  font-size: 13px;
+  font-family: cursive;
+}
+
+.foto1 {
+  position: absolute;
+  left: 1000px;
+  top: 150px;
+  width: 20%;
+}
+
+#foto2 {
+  position: absolute;
+  left: auto;
+  top: auto;
+  width: 20%;
+}
+
+#foto5 {
+  position: absolute;
+  left: 900px;
+  top: auto;
+  width: 20%;
+}
+
+#foto6 {
+  position: absolute;
+  left: 300px;
+  top: auto;
+  width: 20%;
+}
+
+#foto7 {
+  position: absolute;
+  left: 600px;
+  top: auto;
+  width: 20%;
+}
+
+.foto3 {
+  position: absolute;
+  left: 600px;
+  top: 200px;
+  width: 20%;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #4469ec;
+  position: static;
+  top: 0px;
+  width: 100%;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 18px 18px;
+    text-decoration: none;
+    font-size: 17px;
+    width: auto;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
